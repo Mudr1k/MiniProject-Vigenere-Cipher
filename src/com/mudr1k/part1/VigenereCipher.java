@@ -2,7 +2,7 @@ package com.mudr1k.part1;
 
 import java.util.Arrays;
 
-/**
+/*
  * This class implements a Vigenère cipher.
  * It has the following functionality:
  * <p>

@@ -6,7 +6,7 @@ import edu.duke.FileResource;
 
 import java.util.HashSet;
 
-/**
+/*
  * Now that you have broken Vigenère ciphers with a known key length, it is time to expand your program’s functionality
  * to break Vigenère ciphers of unknown key length. You will do this by adding three methods to your VigenereBreaker
  * class, and then modifying your breakVigenere method.

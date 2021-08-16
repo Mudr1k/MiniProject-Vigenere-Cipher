@@ -2,7 +2,7 @@ package com.mudr1k.part1;
 
 import edu.duke.FileResource;
 
-/**
+/*
  * Your first step in this mini-project is to write the three methods in the VigenereBreaker class.
  * Specifically you should do the following:
  * <p>

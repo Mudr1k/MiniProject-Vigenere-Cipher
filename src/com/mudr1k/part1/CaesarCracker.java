@@ -1,6 +1,6 @@
 package com.mudr1k.part1;
 
-/**
+/*
  * This class provides an implementation of the Caesar cipher cracking (or breaking) algorithm that you learned
  * about earlier.
  * As with the CaesarCipher class, a few adjustments have been made:
@@ -26,7 +26,7 @@ public class CaesarCracker {
 
     public int[] countLetters(String message) {
         String alphabet = "abcdefghijklmnopqrstuvwxyz";
-        int[] counts = new int[26];
+        int[] counts = new int[alphabet.length()];
         for (int i = 0; i < message.length(); i++) {
             int index = alphabet.indexOf(Character.toLowerCase(message.charAt(i)));
             if (index != -1) {

@@ -1,6 +1,6 @@
 package com.mudr1k.part1;
 
-/**
+/*
  * This class provides an implementation of the Caesar cipher algorithm that you learned about earlier with public
  * encrypt and decrypt methods.
  * A few adjustments have been made to the code to make it easier for you to work with here:
